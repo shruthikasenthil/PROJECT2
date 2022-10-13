@@ -1,0 +1,42 @@
+<style>
+    #first-box {
+        position: absolute;
+        width: 1260px;
+        height: 89px;
+        left: 90px;
+        top: 60px;
+        background: #F2EEFF;
+        border-radius: 4px;
+    }
+
+    #second-box {
+        position: absolute;
+        width: 626px;
+        height: 708px;
+        left: 90px;
+        top: 220px;
+        background: #E0D6FF;
+        border: 14px solid #8666E1;
+    }
+
+    #third-box {
+        position: absolute;
+        width: 257px;
+        height: 334px;
+        left: 758px;
+        top: 220px;
+        background: #E0D6FF;
+        border: 14px solid #8666E1;
+    }
+
+    #fourth-box {
+        position: absolute;
+        width: 257px;
+        height: 334px;
+        left: 1092px;
+        top: 220px;
+        background: #E0D6FF;
+        border: 14px solid #8666E1;
+    }
+</style>
+}
